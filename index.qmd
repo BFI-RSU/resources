@@ -1,0 +1,60 @@
+---
+title: ""
+toc: true
+toc-title: Themes
+---
+
+Key outputs of the BFI Research and Statistics Unit are listed below. For additional reports, see [bfi.org.uk](https://www.bfi.org.uk/industry-data-insights). For enquiries, please [contact us](contact.qmd).
+
+### Audiences
+* [The Wider World of Film audience survey](https://www.bfi.org.uk/industry-data-insights/reports/wider-world-film)
+* [Audience Screen Engagement Survey (wave 3)](https://core-cms.bfi.org.uk/media/28280/download)
+* [Audience research archive](https://www.bfi.org.uk/industry-data-insights/reports/audiences)
+* [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
+
+### Box office and admissions
+* [Official statistics on UK box office and admissions](https://www.bfi.org.uk/industry-data-insights/official-statistics-release-calendar)
+* [Quarterly statistics visual summary](https://brtarran.github.io/stats-summary/#/uk-box-office-and-admissions)
+* [Weekend box office figures](https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures)
+* [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
+
+### Certification
+* [Official statistics on film, high-end TV, animation TV, children's TV and video game certification](https://www.bfi.org.uk/industry-data-insights/official-statistics-release-calendar)
+* [Quarterly statistics visual summary](https://brtarran.github.io/stats-summary/#/certification)
+* [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
+
+### Data sources
+* [Screen sector data review and mapping report](https://www.bfi.org.uk/industry-data-insights/reports/screen-sector-data-review-mapping)
+* [Screen sector data map](https://core-cms.bfi.org.uk/media/43435/download)
+
+### Distribution and exhibition
+* [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
+
+### Economics of the screen sector
+* [Screen Business](https://www.bfi.org.uk/industry-data-insights/reports/uk-screen-sector-economy)
+* [Economic Review of UK Independent Film](https://www.bfi.org.uk/industry-data-insights/reports/economic-review-uk-independent-film)
+* [Measuring the economic value of cinema venues](https://www.bfi.org.uk/industry-data-insights/reports/measuring-economic-value-cinema-venues)
+
+### Employment
+* [Employment by sector](https://bfi-rsu.github.io/employment/employment-by-sector.html)
+* [Workplaces and enterprises](https://bfi-rsu.github.io/employment/workplaces-and-enterprises.html)
+* [A Sustainable Future for Skills: the Report of the Screen Sectors Skills Task Force](https://www.bfi.org.uk/industry-data-insights/reports/sustainable-future-skills-report-screen-sectors-skills-task-force)
+* [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
+
+### Production
+* [Official statistics on film and high-end TV programme production in the UK](https://www.bfi.org.uk/industry-data-insights/official-statistics-release-calendar)
+* [Quarterly statistics visual summary](https://brtarran.github.io/stats-summary/#/film-and-hetv-production-spend)
+* [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
+
+### Skills
+* [Crew mapping and forecasting best practice and methodology](https://www.bfi.org.uk/industry-data-insights/reports/crew-mapping-forecasting-best-practice-methodology)
+* [Skills scoping study for the digital content production sectors](https://www.bfi.org.uk/industry-data-insights/reports/skills-scoping-study-digital-content-production-sectors)
+
+### Sustainability
+* [A Screen New Deal: a route map to sustainable film production](https://core-cms.bfi.org.uk/media/2940/download)
+* [Screen New Deal: Transformation Plan for Wales](https://www.bfi.org.uk/industry-data-insights/reports/screen-new-deal-transformation-plan-wales)
+* [Sustainability Impacts of Convergent Technologies in the UK Creative Industries](https://www.costarnetwork.co.uk/resources/sustainability-impacts-of-convergent-technologies-in-the-uk-creative-industries)
+
+### Technology and innovation
+* [AI in the Screen Sector: Perspectives and Paths Forward](https://www.bfi.org.uk/industry-data-insights/reports/ai-screen-sector-perspectives-paths-forward)
+* [Position paper on AI rights frameworks](https://www.bfi.org.uk/industry-data-insights/reports/position-paper-ai-rights-frameworks)
