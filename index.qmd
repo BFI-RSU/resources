@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Resources"
 toc: true
 toc-title: Themes
 ---
@@ -57,4 +57,5 @@ Key outputs of the BFI Research and Statistics Unit are listed below. For additi
 
 ### Technology and innovation
 * [AI in the Screen Sector: Perspectives and Paths Forward](https://www.bfi.org.uk/industry-data-insights/reports/ai-screen-sector-perspectives-paths-forward)
+* [AI in the Screen Sector: Casebook](https://brtarran.github.io/ai-case-studies/)
 * [Position paper on AI rights frameworks](https://www.bfi.org.uk/industry-data-insights/reports/position-paper-ai-rights-frameworks)
