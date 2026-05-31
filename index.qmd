@@ -7,6 +7,7 @@ toc-title: Themes
 Key outputs of the BFI Research and Statistics Unit are listed below. For additional reports, see [bfi.org.uk](https://www.bfi.org.uk/industry-data-insights). For enquiries, please [contact us](contact.qmd).
 
 ### Audiences
+* [Audience Screen Engagement Tracker](https://bfi-rsu.github.io/aset/)
 * [The Wider World of Film audience survey](https://www.bfi.org.uk/industry-data-insights/reports/wider-world-film)
 * [Audience Screen Engagement Survey (wave 3)](https://core-cms.bfi.org.uk/media/28280/download)
 * [Audience research archive](https://www.bfi.org.uk/industry-data-insights/reports/audiences)
@@ -14,13 +15,13 @@ Key outputs of the BFI Research and Statistics Unit are listed below. For additi
 
 ### Box office and admissions
 * [Official statistics on UK box office and admissions](https://www.bfi.org.uk/industry-data-insights/official-statistics-release-calendar)
-* [Quarterly statistics visual summary](https://brtarran.github.io/stats-summary/#/uk-box-office-and-admissions)
+* [Quarterly statistics visual summary](https://bfi-rsu.github.io/stats-summary/#/uk-box-office-and-admissions)
 * [Weekend box office figures](https://www.bfi.org.uk/industry-data-insights/weekend-box-office-figures)
 * [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
 
 ### Certification
 * [Official statistics on film, high-end TV, animation TV, children's TV and video game certification](https://www.bfi.org.uk/industry-data-insights/official-statistics-release-calendar)
-* [Quarterly statistics visual summary](https://brtarran.github.io/stats-summary/#/certification)
+* [Quarterly statistics visual summary](https://bfi-rsu.github.io/stats-summary/#/certification)
 * [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
 
 ### Data sources
@@ -43,7 +44,7 @@ Key outputs of the BFI Research and Statistics Unit are listed below. For additi
 
 ### Production
 * [Official statistics on film and high-end TV programme production in the UK](https://www.bfi.org.uk/industry-data-insights/official-statistics-release-calendar)
-* [Quarterly statistics visual summary](https://brtarran.github.io/stats-summary/#/film-and-hetv-production-spend)
+* [Quarterly statistics visual summary](https://bfi-rsu.github.io/stats-summary/#/film-and-hetv-production-spend)
 * [Annual Statistical Yearbook data](https://www.bfi.org.uk/industry-data-insights/statistical-yearbook)
 
 ### Skills
@@ -57,5 +58,5 @@ Key outputs of the BFI Research and Statistics Unit are listed below. For additi
 
 ### Technology and innovation
 * [AI in the Screen Sector: Perspectives and Paths Forward](https://www.bfi.org.uk/industry-data-insights/reports/ai-screen-sector-perspectives-paths-forward)
-* [AI in the Screen Sector: Casebook](https://brtarran.github.io/ai-case-studies/)
+* [AI in the Screen Sector: Casebook](https://costar-foresight-lab.github.io/ai-casebook/)
 * [Position paper on AI rights frameworks](https://www.bfi.org.uk/industry-data-insights/reports/position-paper-ai-rights-frameworks)
